@@ -3,9 +3,6 @@ import javafx.beans.binding.*
 import javafx.beans.property.*
 import javafx.collections.*
 import javafx.concurrent.*
-import javafx.scene.control.*
-import javafx.scene.layout.*
-import javafx.util.*
 import tornadofx.*
 import java.util.concurrent.*
 
